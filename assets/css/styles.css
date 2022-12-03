@@ -50,7 +50,7 @@ main {
     width: min-content;
 }
 i.fa-ethereum,h2 {
-    color:hsl(178, 100%, 50%)
+    color:hsl(178, 100%, 50%);
 }
 #price h2, #price p {
     display:inline-block;
